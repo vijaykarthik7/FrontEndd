@@ -1,6 +1,6 @@
 .a{
     background-color: rgb(222, 212, 212);
-    width: 100%;
+    width: 50%;
     height:200px;
     font-size: 20px;
     border: 2px solid black;
@@ -11,7 +11,7 @@
 }
 .b {
     padding:100px;
-    background-color: aquamarine;
+    background-color: rgb(227, 220, 19);
 
   
 }
@@ -22,5 +22,5 @@ tr {
     display: flex;
     flex-direction: column;
     gap:10px;
-    background-color: aquamarine;
+    background-color: rgb(198, 224, 215);
   }
